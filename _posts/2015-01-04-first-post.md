@@ -1,8 +1,4 @@
 ---
 layout: post
-title: First post!
-image: /img/hello_world.jpeg
-tags: [random, exciting-stuff]
+title: Práctica de análisis matemático II
 ---
-
-This is my first post, how exciting!
