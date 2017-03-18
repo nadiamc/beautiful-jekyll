@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ma materias
+title: materias
 ---
 ÁLGEBRA I
 [Clases teóricas de álgebra I](/2017-03-17-teoría-de-álgebra-I/)
