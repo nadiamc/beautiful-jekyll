@@ -25,13 +25,8 @@ description: apuntes!!
 navbar-links:
   #out Me: "aboutme"
   
-  álgebra I:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-    
-  análisis matemático II
-    -Teórica: ""
+
+
     
   algoritmos y estructuras de datos I:
     -Teórica: ""
