@@ -26,8 +26,9 @@ navbar-links:
   
   
   
-  MAterias 2° y  3°:
-     -algo I: "https://nadiamc.github.io/algebra/"
+  materias: "materias"
+  
+  extra:
   
   
   #Author's home: "http://deanattali.com"
