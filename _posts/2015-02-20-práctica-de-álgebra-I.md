@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Análisis matemático II
+title: Práctica de álgebra I
 subtitle: ou!
 ---
