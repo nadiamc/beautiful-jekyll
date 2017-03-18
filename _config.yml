@@ -23,11 +23,11 @@ description: ¡apuntes!
 
 # List of links in the navigation bar
 navbar-links:
-  CBC: 
-    -álgebra: "algebra"
-  MAterias 2° y  3°:
   
-    -algo I: ""
+  CBC: "algebra"
+  
+  MAterias 2° y  3°:
+     -algo I: ""
   
   materias 4° y 5°:
      -Teórica: ""
