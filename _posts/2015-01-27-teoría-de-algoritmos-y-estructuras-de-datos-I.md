@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tería de algoritmos y estructuras de datos I
+title: Teoría de algoritmos y estructuras de datos I
 
 ---
 
