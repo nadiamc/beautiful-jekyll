@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Álgebra I
+title: Teoría de álgebra I
 subtitle: aaaa
 ---
