@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Teoría de álgebra I
 ---
 
