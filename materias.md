@@ -1,3 +1,4 @@
+2017-03-16-práctica-de-álgebra-I.md
 ---
 layout: page
 title: materias
@@ -5,7 +6,7 @@ title: materias
 ### ÁLGEBRA I
 
 #### [CLASES TEÓRICAS](/2017-03-17-teoría-de-álgebra-I/)
-#### [CLASES PRÁCTICAS](/2017-03-16-práctica-de-álgebra-I.md/)
+#### [CLASES PRÁCTICAS](/2017-02-18-práctica-de-álgebra-I.md/)
 #### [TALLER](/2017-03-15-taller-de-álgebra-I.md/)
 
 ### ÁLGEBRA LINEAL
