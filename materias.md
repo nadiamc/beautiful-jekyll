@@ -1,4 +1,4 @@
-2017-03-16-práctica-de-álgebra-I.md
+
 ---
 layout: page
 title: materias
